@@ -1,0 +1,25 @@
+<svg width="320" height="320" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d=
+    "
+      M 160 0
+      L 320 160 
+      L 160 320
+      L 0 160 
+      L 160 0"
+    fill="currentcolor"/>
+  <path
+    d=
+    "
+      M 160 0
+      Q 300 0 320 160
+      M 320 160
+      Q 320 340 160 320
+      M 160 320
+      Q -20 320 0 160
+      M 0 160
+      Q 0 0 160 0
+      M 160 0
+    "
+    fill="currentcolor"/>
+</svg>

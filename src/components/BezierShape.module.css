@@ -1,0 +1,25 @@
+.default {
+  opacity: 0.6;
+  position: fixed;
+}
+
+.top {
+  top: -80px;
+  right: -240px;
+  rotate: 300deg;
+}
+
+.bottom {
+  bottom: -200px;
+  left: -120px;
+}
+
+.blue {
+  filter: invert(92%) sepia(2%) saturate(2857%) hue-rotate(185deg)
+    brightness(103%) contrast(95%);
+}
+
+.yellow {
+  filter: invert(92%) sepia(5%) saturate(1519%) hue-rotate(11deg)
+    brightness(108%) contrast(106%);
+}
