@@ -1,6 +1,6 @@
 # Quiz app
 
-Quiz app is a common knowledge examination and brain training application build with magic.
+Quiz app is a common knowledge examination and brain training application built with magic.
 
 ## Tech details
 
